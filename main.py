@@ -1,3 +1,1 @@
-"""
-This is the main file for EDA repository.
-"""
+print("This is the main file of the EDA repo.")
